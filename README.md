@@ -21,13 +21,5 @@ The project involves:
 - Visualize the clusters to identify patterns.
 - Provide business insights into customer behavior.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Clustering Process](#clustering-process)
-- [Visualization](#visualization)
-- [Results](#results)
-- [License](#license)
 
 Try it Now : https://customer-segmentation-kmean.streamlit.app/#customer-segmentation-using-k-means-clustering
